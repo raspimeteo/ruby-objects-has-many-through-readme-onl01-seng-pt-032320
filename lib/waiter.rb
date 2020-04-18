@@ -18,7 +18,5 @@ class Waiter
     Meal.new(self, customer, total, tip)
   end
   
-  3
-  3333                  
  
 end
